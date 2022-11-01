@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "v1/component/packages": {
+  "packages": {
     "code": 0,
     "error": {},
     "result": [
