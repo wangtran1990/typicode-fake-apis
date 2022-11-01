@@ -1,14 +1,47 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
+  },
+  "v1/component/packages": {
+    "code": 0,
+    "error": {},
+    "result": [
+      {
+        "order": 1,
+        "package_id": "VE69",
+        "package_name": "Gói VIP VE69"
+      },
+      {
+        "order": 2,
+        "package_id": "VE99",
+        "package_name": "Gói VIP VE99"
+      }
+    ]
   }
 }
