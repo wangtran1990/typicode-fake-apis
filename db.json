@@ -27,21 +27,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "packages": {
-    "code": 0,
-    "error": {},
-    "result": [
-      {
-        "order": 1,
-        "package_id": "VE69",
-        "package_name": "Gói VIP VE69"
-      },
-      {
-        "order": 2,
-        "package_id": "VE99",
-        "package_name": "Gói VIP VE99"
-      }
-    ]
   }
 }
